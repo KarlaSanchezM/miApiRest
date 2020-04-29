@@ -24,7 +24,9 @@ es una extensión del navegador Google Chrome, que permite el envío de peticion
 HTTP REST sin necesidad de desarrollar un cliente. Una vez instalado Postman, es necesario 
 abrirlo e instalar 
 el plugin Jetpack de Postman para poder crear las pruebas y lanzarlas conjuntamente.
+
 #Base de datos.
 Para esta aplicación se utilizo Remotemysql
+
 #Editor 
 Visual Studio Code
