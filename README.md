@@ -19,14 +19,14 @@ Se creo un procedimiento almacenado en el cual devuelve un valor, el crear un pr
 puede reducir el trafico de red entre el servidor y el cliente ya que estos son enviados unicamente a través de la red
 la llamada que a ejecutar el procedimiento. 
 
-#Postman 
+## Postman 
 es una extensión del navegador Google Chrome, que permite el envío de peticiones 
 HTTP REST sin necesidad de desarrollar un cliente. Una vez instalado Postman, es necesario 
 abrirlo e instalar 
 el plugin Jetpack de Postman para poder crear las pruebas y lanzarlas conjuntamente.
 
-#Base de datos.
+## Base de datos.
 Para esta aplicación se utilizo Remotemysql
 
-#Editor 
+## Editor 
 Visual Studio Code
